@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="cooldroidImageContent" translatable="false">cooler Droide</string>
+    <string name="txt_dont_touch">You haven\'t touched the Droid</string>
+    <string name="once">once</string>
+    <string name="twice">twice</string>
+    <string name="text_view_numbers">You touched the Droid %1$d times!</string>
+</resources>

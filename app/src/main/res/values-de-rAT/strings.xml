@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="txt_dont_touch">Du hast den Droid nicht angeklickt!</string>
+    <string name="once">einmal</string>
+    <string name="twice">zweimal</string>
+    <string name="text_view_numbers">Du hast den Droid %1$d-mal angeklickt!</string>
+</resources>
